@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\Nexar\\IdeaProjects\\prog-exercise-1-JakobSchul\\build\\classes\\java\\main;C:\\Users\\Nexar\\IdeaProjects\\prog-exercise-1-JakobSchul\\build\\resources\\main'
+-d 'C:\\Users\\Nexar\\IdeaProjects\\prog-exercise-1-JakobSchul\\build\\docs\\javadoc'
+-doctitle 'Exercise1v12020 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'Exercise1v12020 1.0-SNAPSHOT API'
+'C:\\Users\\Nexar\\IdeaProjects\\prog-exercise-1-JakobSchul\\src\\main\\java\\at\\ac\\fhcampuswien\\App.java'

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="at.ac.fhcampuswien.AppTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2022-10-05T00:44:08" hostname="WIN11600K" time="0.053">
+  <properties/>
+  <testcase name="sayHelloWorld()" classname="at.ac.fhcampuswien.AppTest" time="0.018"/>
+  <testcase name="ratingSalesPerson1()" classname="at.ac.fhcampuswien.AppTest" time="0.002"/>
+  <testcase name="ratingSalesPerson2()" classname="at.ac.fhcampuswien.AppTest" time="0.002"/>
+  <testcase name="ratingSalesPerson3()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <testcase name="addTwoNumbers()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <testcase name="helloRobot()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <testcase name="sumOfLiterals()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <testcase name="transposedNumbers()" classname="at.ac.fhcampuswien.AppTest" time="0.002"/>
+  <testcase name="getCommissionRate1()" classname="at.ac.fhcampuswien.AppTest" time="0.002"/>
+  <testcase name="getCommissionRate2()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <testcase name="getCommissionRate3()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <testcase name="leapYear1()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <testcase name="leapYear2()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <testcase name="leapYear3()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <testcase name="swapTwoNumbers()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <testcase name="compareTwoNumbers1()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <testcase name="compareTwoNumbers2()" classname="at.ac.fhcampuswien.AppTest" time="0.0"/>
+  <testcase name="compareTwoNumbers3()" classname="at.ac.fhcampuswien.AppTest" time="0.001"/>
+  <system-out><![CDATA[Testing Exercise1
+Finished Testing Exercise1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
